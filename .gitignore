@@ -1,0 +1,6 @@
+# Local secrets — never commit
+.env
+netbox-config/configuration.py
+
+# Agent working artifacts
+.superpowers/
